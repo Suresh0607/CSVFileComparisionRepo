@@ -4,10 +4,10 @@
 
 ## CONFIG
 
-1.  `Path` value is where the git clone `https://github.com/Suresh0607/CSVFileComparision.git` is done.
+1.  `Path` value is where the git clone `https://github.com/Suresh0607/CSVFileComparisionRepo.git` is done.
      Example cd C:\git Note : This can be changed
 	`Path` = "C:\git"
-	 Then do Git Clone `https://github.com/Suresh0607/CSVFileComparision.git`
+	 Then do Git Clone `https://github.com/Suresh0607/CSVFileComparisionRepo.git`
 	
 2.   Visual Studo 2017 
 
