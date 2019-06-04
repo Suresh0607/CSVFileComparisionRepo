@@ -18,7 +18,7 @@
 
 1 . Run the Solution 
 
-2.  Check the Output in the `Path`+ \ErrorResult\ if Files are not Similar
+2.  Check the Output in the `Path`+\CSVFileComparisionRepo\ErrorResult\ if Files are not Similar
 
 3.  if files are Similar no ErrorFile is generated.
 
